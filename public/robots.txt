@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hacksphere.edu/sitemap.xml
