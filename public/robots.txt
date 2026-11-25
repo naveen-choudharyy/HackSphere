@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hacksphere.edu/sitemap.xml
+Sitemap: https://hack-sphere.netlify.app//sitemap.xml
