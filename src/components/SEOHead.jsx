@@ -28,7 +28,7 @@ export default function SEOHead({
     }
 
     // 3. Canonical Link
-    const siteUrl = 'https://hacksphere.edu';
+    const siteUrl = 'https://hack-sphere.netlify.app/';
     const finalCanonical = canonicalUrl ? (canonicalUrl.startsWith('http') ? canonicalUrl : `${siteUrl}${canonicalUrl}`) : window.location.href;
     
     let linkCanonical = document.querySelector('link[rel="canonical"]');
